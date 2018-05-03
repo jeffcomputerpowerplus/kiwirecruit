@@ -2,7 +2,7 @@
 
 INSTALLATION INSTRUCTIONS
 
-1. Clone or download this repository to your computer, and then unzip the folder.
+1. Download the zip file to your computer, and then extract the folder.
 
 2. Open a command line and cd.. to the root directory of the app.
 
