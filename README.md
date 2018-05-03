@@ -22,7 +22,7 @@ INSTALLATION INSTRUCTIONS
    <br>python manage.py runserver
 
 5. Open a browser and go to http://127.0.0.1:8000/
-   <br>You should see the home page of the kiwirecruit.
+   <br>You should see the home page of the kiwirecruit app.
 
 6. Use the login credentials below to explore the app!
 
