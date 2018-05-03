@@ -2,9 +2,9 @@
 
 INSTALLATION INSTRUCTIONS
 
-1. Clone or download this repository to your computer.
+1. Clone or download this repository to your computer, and then unzip the folder.
 
-2. Open a command line and cd.. to the root directory of the app (the folder containing this text file)
+2. Open a command line and cd.. to the root directory of the app.
 
 3. Create and run the migrations like this =>
    <br>python manage.py migrate
@@ -39,7 +39,7 @@ ADMIN LOGIN FOR DJANGO (OPTIONAL!)
 
 If you want access to the Django admin then you first need to create a superuser. Follow the instructions below:
 
-1. Open a command line and cd.. to the root directory of the app (the folder containing this text file)
+1. Open a command line and cd.. to the root directory of the app.
 
 2. Create a superuser like this =>
    <br>python manage.py createsuperuser
